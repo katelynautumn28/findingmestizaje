@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About WaxBuilder
-permalink: /about/waxbuilder
+permalink: /about/waxbuilder/
 ---
 
 This exhibit was created using WaxBuilder. 
