@@ -129,7 +129,11 @@ menu:
   - label: 'Documentation'
     link: 'https://kam535.github.io/wax-documentation/pages/waxbuilder.html'
   - label: 'About'
-    link: '/about/'
+    sub:
+      - label: 'About WaxBuilder'
+      - link: '/about/waxbuilder'
+      - label: 'About the Project'
+      - link: '/about/project'
  
   
   
