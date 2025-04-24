@@ -16,7 +16,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Finding Mestizaje in the Archive'
-description:      'A minimal collections exhibit platform'
+description:      'A capstone project submitted in fulfillment of the requirements for the degree of MA in Archives and Public History, NYU. '
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
 baseurl:          '/findingmestizaje' #CHANGE THIS
 copyright:        'Katelyn Landry, 2025'

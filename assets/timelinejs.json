@@ -1,5 +1,5 @@
 
-{%- assign items = site.data.[site.metadata]| where_exp: 'item', 'item.dateStart' -%}
+{%- assign items = site.data.[site.metadata]| where_exp: 'item', 'item._dateStart' -%}
 {
     "title": {
         "media": {
@@ -11,14 +11,14 @@
         }
     },
     "events": [
-      {% for item in items %}{% if item.dateStart %}{
+      {% for item in items %}{% if item._dateStart %}{
         "media": {
           "url": "{% if item.youtubeid %}{{ 'https://www.youtube.com/watch?v=' | append: item.youtubeid }}{% elsif item.vimeoid %}{{ 'https://vimeo.com/' | append: item.vimeoid }}{% elsif item.thumbnail contains 'http' %}{{ item.thumbnail }}{% else %}{{ item.thumbnail | prepend: '/site.data[site.metadata]/' | absolute_url }}{% endif %}",
           "caption": {{ item.label | jsonify }},
           "link": "{{ site.data.[site.metadata] | absolute_url | append: item.pid }}",
           "credit": "{{ site.title }}"
         },
-        "start_date": { {% if item.dateStart contains '-' %}{% assign dates = item.dateStart | split: '-' %}
+        "start_date": { {% if item._dateStart contains '-' %}{% assign dates = item._dateStart | split: '-' %}
           "month": "{{ dates[1] }}",
           "day": "{{ dates[2] }}",
           "year": "{{ dates[0] }}"{% elsif item.date contains '/' %}"year": "{{ item.date | strip | split: '/' | last }}"{% else %}
