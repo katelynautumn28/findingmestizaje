@@ -131,9 +131,9 @@ menu:
   - label: 'About'
     sub:
       - label: 'About WaxBuilder'
-      - link: '/about/waxbuilder/'
+        link: '/about/waxbuilder/'
       - label: 'About the Project'
-      - link: '/about/project/'
+        link: '/about/project/'
  
   
   
