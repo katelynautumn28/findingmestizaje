@@ -106,7 +106,7 @@ search:
 # submenu via `sub`.
 
 menu:
- - label: 'About'
+  - label: 'About'
     sub:
       - label: 'About WaxBuilder'
         link: '/about/waxbuilder/'
