@@ -106,19 +106,21 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Browse'
+ - label: 'About'
+    sub:
+      - label: 'About WaxBuilder'
+        link: '/about/waxbuilder/'
+      - label: 'About the Project'
+        link: '/about/project/'
+  - label: 'Browse the Collection'
     link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Teaching Tools'
-    link: '/teaching-tools/'
+  - label: 'Browse Finding Aids'
+    link: '/teaching-tools/'   
   - label: 'Timeline'
     link: '/timeline/'
   - label: 'Map'
     link: '/map.html'
-  - label: 'Data'
-    link: '/data/'
-  - label: 'Exhibits'
+  - label: 'Analysis'
     sub:
       - label: 'Bonaventure Lyffe of Chryste'
         link: '/exhibits/a/'
@@ -126,14 +128,10 @@ menu:
         link: '/exhibits/b/'
       - label: 'Sample Exhibit Shell'
         link: '/exhibits/c/'
-  - label: 'Documentation'
-    link: 'https://kam535.github.io/wax-documentation/pages/waxbuilder.html'
-  - label: 'About'
-    sub:
-      - label: 'About WaxBuilder'
-        link: '/about/waxbuilder/'
-      - label: 'About the Project'
-        link: '/about/project/'
+  - label: 'Data'
+    link: '/data/'
+ - label: 'Search'
+    link: '/search/'
  
   
   
