@@ -9,7 +9,7 @@ This site's collection comprises a set of archival materials related to the expe
 {% include gallery.html collection='findingmestizaje' facet_by='label|originalwork|worktype|' num_column=4 %}
 
 ## Subjects
-{% include tag-carousel.html fields="tTags" %}
+{% include tag-carousel.html fields="_tags" %}
 
 ## Locations
 {% include tag-carousel.html fields="location" %}

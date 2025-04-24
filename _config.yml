@@ -15,11 +15,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'WaxBuilder'
-description:      'A minimal collections exhibit platform'
+title:            'Finding Mestizaje in the Archive'
+description:      ''
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
 baseurl:          '/findingmestizaje' #CHANGE THIS
-copyright:        'Cornell University Digital CoLab, 2024'
+copyright:        'Katelyn Landry, 2025'
 logo:             '/img/book.png'
 default_thumb:    '/img/default.png'
 metadata: 'findingmestizaje' #CHANGE THIS; exclude the file extension, i.e. .csv
@@ -131,9 +131,9 @@ menu:
   - label: 'About'
     sub:
       - label: 'About WaxBuilder'
-      - link: '/about/waxbuilder'
+      - link: '/about/waxbuilder/'
       - label: 'About the Project'
-      - link: '/about/project'
+      - link: '/about/project/'
  
   
   
