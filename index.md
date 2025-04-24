@@ -8,15 +8,16 @@ banner:
   clickable: yes
   height: '500px'
 ---
-WaxBuilder is a tool built on the shell of [Wax](https://minicomp.github.io/wax/), a minimal, static site-builder for digital collections. WaxBuilder includes added features borrowed from [CollectionBuilder](https://collectionbuilder.github.io) and [Joseph Anderson](https://github.com/fitnycdigitalinitiatives) of the Fashion Institute of Technology NYC's Digital Initiatives, including different data download formats, a timeline, an interactive web map, subject tags, and more.
+*Finding Mestizaje in the Archive* is a digital humanities project that seeks to highlight persons identified as mixed-race in the archival record. Through collaboration with archival repositories in Texas, this project site presents newly digitized archival collection items that reveal various ways that mixed-race people were captured in the colonial-record keeping system. By connecting these disparate materials by the common thread of mixed-race identity, this project seeks to establish a material record of mestizaje that is often overlooked in U.S. archival collections.  
 
-Each include, layout, and folder includes a doc entitled "doc.md" that provides information about how to use that folder or file to customize your site.
+In addition to the digital collection, this project also includes key insights and data visualizations from *Finding Mestizaje in the Archive: A Qualitative Analysis of Archival Description of Race and Caste*, a research paper which analyzes the ways in which race is described and contextualized across 70 finding aids published by Texas archival repositories.
 
-Before using WaxBuilder, I suggest you familiarise yourself with Wax, including the Wax documentation. You may need the [supplemental documentation for Wax](https://kam535.github.io/wax-documentation/), available from Cornell University's Digital CoLab to help you, since Wax's documentation is scant. [Wax Docs +](https://kam535.github.io/wax-documentation/) will also include specific WaxBuilder documentation soon (insha'Allah).
+This project serves as a capstone project submitted in partial fulfillment of the requirements for the degree of Master of Arts in Archives and Public History at New York University. 
 
-<img src="https://kam535.github.io/waxbuilder/img/medievalfragments.png" class="center" alt="Cornell RMC from above">
+<img src="img/Benson_raremaps.jpg" class="center" alt="Map">
 <div style="text-align:center">
-<em>The WaxBuilder demo site, Medieval Fragments at Cornell</em>
+<em>Resumen general de las Personas que Havitan 
+en la calle segunda de la Monterilla y siguientes, 18th century. Selected Rare Maps in the Benson Latin American Collection, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin.</em>
 </div>
 
 <br> 
@@ -24,3 +25,6 @@ Before using WaxBuilder, I suggest you familiarise yourself with Wax, including 
 
 #### By Item Type
 {% include collection_gallery.html facet_by='worktype' collection='findingmestizaje' %}
+
+#### By Subject
+{% include collection_gallery.html facet_by='_tags' collection='findingmestizaje' %}
