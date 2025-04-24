@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: findingmestizaje
-  pid: fm011
+  img: Benson_raremaps.jpg
   y: 25%
   clickable: yes
   height: '500px'
