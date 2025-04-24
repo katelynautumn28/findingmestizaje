@@ -130,7 +130,7 @@ menu:
         link: '/exhibits/c/'
   - label: 'Data'
     link: '/data/'
- - label: 'Search'
+  - label: 'Search'
     link: '/search/'
  
   
