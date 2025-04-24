@@ -15,13 +15,13 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Finding Mestizaje in the Archive'
+title: 'Finding Mestizaje in the Archive'
 description:      
-url:              'https://katelynautumn28.github.io' #CHANGE THIS
-baseurl:          '/findingmestizaje' #CHANGE THIS
-copyright:        'Katelyn Landry, 2025'
-logo:             '/img/book.png'
-default_thumb:    '/img/default.png'
+url: 'https://katelynautumn28.github.io' #CHANGE THIS
+baseurl: '/findingmestizaje' #CHANGE THIS
+copyright: 'Katelyn Landry, 2025'
+logo: '/img/book.png'
+default_thumb: '/img/default.png'
 metadata: 'findingmestizaje' #CHANGE THIS; exclude the file extension, i.e. .csv
 
 # ---------------------------------------------------------------
