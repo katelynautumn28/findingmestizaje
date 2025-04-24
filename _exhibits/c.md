@@ -1,9 +1,9 @@
 ---
 layout: exhibit
-title: 'Conclusions'
+title: 'Results'
 author: Cornell RMC
 publish_date: 2024-11-15
-permalink: /analysis/conclusions/
+permalink: /analysis/results/
 ---
 <html>
   <head>
@@ -18,4 +18,8 @@ permalink: /analysis/conclusions/
   </body>
 </html>
 
-An exhibit is just a page written in Markdown (or HTML, or both). You can put whatever you want on here.
+### None of the finding aids analyzed in this study included subject headings related to mixed-race identity
+
+### Only seven finding aids mentioned the racial caste system or racism 
+
+### Only three finding aids included statements that acknowledged offensive language in collection materials
