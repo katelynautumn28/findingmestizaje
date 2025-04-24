@@ -25,7 +25,7 @@ permalink: /analysis/results/
 ### Only three finding aids included statements that acknowledged offensive language in collection materials
 
 <embed
-	src="AdjutantGeneral_TSLAC.pdf"
+	src="https://github.com/katelynautumn28/findingmestizaje/blob/main/img/AdjutantGeneral_TSLAC.pdf"
 	type="application/pdf"
 	width="100%"
 	height="1000"
