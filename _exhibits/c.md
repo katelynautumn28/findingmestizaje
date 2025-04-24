@@ -23,3 +23,16 @@ permalink: /analysis/results/
 ### Only seven finding aids mentioned the racial caste system or racism 
 
 ### Only three finding aids included statements that acknowledged offensive language in collection materials
+
+<object
+	data="img/AdjutantGeneral_TSLAC.pdf"
+	type="application/pdf"
+	width="100%"
+	height="1000"
+	title="Embedded PDF Viewer"
+>
+	<p>
+		Your browser does not support PDFs.
+		<a href="img/AdjutantGeneral_TSLAC.pdf">Download the PDF</a>
+	</p>
+</object>
