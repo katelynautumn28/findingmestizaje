@@ -8,7 +8,7 @@ layout: timelinedefault
         {% assign taglist = '' %}
         {{ taglist }}
         {% for item in site.data.[site.metadata] %}
-          {% assign tags = item.tTags | split:',' %}
+          {% assign tags = item._tags | split:',' %}
           {% for tag in tags %}
             {% assign taglist = taglist | append: tag | append: ',' %}
           {% endfor %}
@@ -27,13 +27,13 @@ layout: timelinedefault
   </div>
   <div class="row align-items-center" id="timeline-viewport">
     <div class="owl-carousel" id="event-carousel">
-      {% assign sortedItems = site.data.[site.metadata] | sort: 'dateStart' %}
-      {% assign groups = sortedItems | group_by_exp:"item", "item.dateStart | truncate: 3, ''"  %}
+      {% assign sortedItems = site.data.[site.metadata] | sort: '_dateStart' %}
+      {% assign groups = sortedItems | group_by_exp:"item", "item._dateStart | truncate: 3, ''"  %}
       {% for group in groups %}
       {% assign decade = group.name  %}
       {% assign count = 0  %}
       {% for item in group.items %}
-      <div class="card text-white shadow" data-dateStart="{{ item.dateStart }}" data-hash="{{ item.label | url_encode }}">
+      <div class="card text-white shadow" data-_dateStart="{{ item._dateStart }}" data-hash="{{ item.label | url_encode }}">
         {% if count == 0 %}
         <h2 class="decade text-dark font-italic">{{decade}}0's</h2>
         {% endif %}
@@ -55,12 +55,12 @@ layout: timelinedefault
             </a>
           </h1>
           <p class="small event-date position-absolute mb-0">
-            {% if item.dateStart == item.dateEnd %}
-            {{ item.dateStart}}
+            {% if item._dateStart == item._dateEnd %}
+            {{ item._dateStart}}
             {% else %}
-              {{ item.dateStart}}
-              {% if item.dateEnd %}
-              - {{ item.dateEnd}}
+              {{ item._dateStart}}
+              {% if item._dateEnd %}
+              - {{ item._dateEnd}}
               {% endif %}
             {% endif %}
           </p>
