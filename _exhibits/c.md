@@ -25,7 +25,7 @@ permalink: /analysis/results/
 ### Only three finding aids included statements that acknowledged offensive language in collection materials
 
 <object
-	data="img/AdjutantGeneral_TSLAC.pdf"
+	data="AdjutantGeneral_TSLAC.pdf"
 	type="application/pdf"
 	width="100%"
 	height="1000"
@@ -33,6 +33,6 @@ permalink: /analysis/results/
 >
 	<p>
 		Your browser does not support PDFs.
-		<a href="img/AdjutantGeneral_TSLAC.pdf">Download the PDF</a>
+		<a href="AdjutantGeneral_TSLAC.pdf">Download the PDF</a>
 	</p>
 </object>
