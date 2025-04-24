@@ -106,16 +106,8 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'About WaxBuilder'
-        link: '/about/waxbuilder/'
-      - label: 'About the Project'
-        link: '/about/project/'
   - label: 'Browse the Collection'
-    link: '/collection/'
-  - label: 'Browse Finding Aids'
-    link: '/teaching-tools/'   
+    link: '/collection/'   
   - label: 'Timeline'
     link: '/timeline/'
   - label: 'Map'
@@ -132,8 +124,13 @@ menu:
     link: '/data/'
   - label: 'Search'
     link: '/search/'
+  - label: 'About'
+    sub:
+      - label: 'About WaxBuilder'
+        link: '/about/waxbuilder/'
+      - label: 'About the Project'
+        link: '/about/project/'
  
-  
   
 
 # --------------------------------------------------------------
