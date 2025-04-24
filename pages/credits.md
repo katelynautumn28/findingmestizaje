@@ -4,10 +4,12 @@ title: Credits & Contact
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led and maintained by [Marii Nyrop](https://marii.info/) and [Alex Gil](https://github.com/elotroalex).
+I extend my most sincere thanks to the following Texas archival repositories which processed my digitization requests and granted me permission to display their digitized collection items on this site: 
+- Nettie Lee Benson Latin American Collection, University of Texas at Austin
+- Cushing Memorial Library and Archives, Texas A&M University
+- African American History Research Center, Houston Public Library
+- Albert and Ethel Herzstein Library, San Jacinto Museum and Battlefield Association
+- Catholic Archives of Texas, Texas Catholic Conference of Bishops
+- University of Texas at Arlington Special Collections
 
-It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), and [ElasticLunr](http://elasticlunr.com/) and builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
-
-We welcome and encourage contributibutions. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) or find us in the **#minicomp-wax** channel within the [Code4Lib Slack](https://code4lib.slack.com). (Request an invite [here](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1)!)
-
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+The initial research phase of this project was generously funded by the 2024 NYU Digital Humanities Graduate Fellowship. Thank you to Jojo Karlin, Nicholas Wolf, and Alía Warsco for their valuable insights and support. 
