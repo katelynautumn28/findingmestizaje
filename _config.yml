@@ -110,6 +110,8 @@ menu:
     link: '/map.html'
   - label: 'Analysis'
     sub:
+      - label: 'Glossary'
+        link: '/analysis/glossary/'
       - label: 'Introduction'
         link: '/analysis/intro/'
       - label: 'Methods'

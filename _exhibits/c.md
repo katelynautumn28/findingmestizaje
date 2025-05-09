@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Results'
-author: 'Finding Mestizaje in the Archive: A Qualitative Analysis of Archival Description of Race and Caste'
+author: 'Finding Mestizaje in the Archive: A Qualitative Analysis of Archival Description of Mixed-Race Subjects'
 publish_date: 2025-05-09
 permalink: /analysis/results/
 ---
