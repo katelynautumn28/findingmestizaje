@@ -6,10 +6,11 @@ publish_date: 2025-05-09
 permalink: /analysis/glossary/
 ---
 
-<img src="https://katelynautumn28.github.io/findingmestizaje/img/casta-painting.png" class="center" alt="Casta painting">
+<img src="https://katelynautumn28.github.io/findingmestizaje/img/casta-painting.jpg" class="center" alt="Casta painting">
 <div style="text-align:center">
 <em>Unknown artist. “Las Castas.” Museo Nacional del Virreinato D.R. Instituto Nacional de Antropología e Historia, México, Tepotzotlan, Mexico. http://mediateca.inah.gob.mx/islandora_74/islandora/object/pintura%3A2123</em>
 </div>
+
 
 The casta painting genre, popular in the 18th century in colonial Mexico, offers a visually striking manifestation of the Spanish colonial record-keeping system and its documentation, classification, and characterization of the Black, Indigenous, and mixed-race peoples as a means of world-making and subjugation. The paintings typically depict several scenes, each with a man and a woman of different races with their mixed-race child, who is assigned a racial epithet that reflects the combination of their parents’ backgrounds. Families painted with darker skin to represent children of Indigenous and African backgrounds were usually depicted as being of lower socioeconomic station and less pleasant temperament than those with European lineage. Mestizaje refers to this concept of racial mixture.   
 
