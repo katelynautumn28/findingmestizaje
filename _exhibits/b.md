@@ -12,6 +12,7 @@ I gathered a corpus of 78 finding aids from [TARO](https://txarchives.org/home),
 
 After gathering over 100 finding aids based on these keyword searches, I navigated to the locations in the text where the keywords were found and removed finding aids in which the keyword was within the title of a written or creative work, a person’s name, or the name of a geographic location. Once the corpus was culled, I uploaded the finding aids as PDF documents to ATLAS.ti, a qualitative data analysis software typically used for coding and analyzing large bodies of textual documents such as transcripts & field notes. I developed two series of codes: the first series of codes are intended to flag racial descriptive terms that appear anywhere in the finding aid (Table 1). In addition to coding descriptions of mixed-race subjects, I also coded terms used to describe Black, Indigenous, and Spanish subjects who were not identified as mixed-race in the hopes of being able to discern differences in descriptive approaches to each racial group.
 
+
 | Table 1: Coding description of race and caste |  |
 | :---- | :---- |
 | **Narrative description** | **Codes** |
@@ -22,7 +23,9 @@ After gathering over 100 finding aids based on these keyword searches, I navigat
 | Colonial-era terms used to classify Spaniards born in the New world | creole, criollo, criolla |
 | Modern phrases referring to mixed-race groups  | mixed race, race relations, interracial, biracial |
 
+
 The second series of codes were intended to identify characteristics of the finding aids and collections they represented (Table 2). These codes were intended to help build an aggregate profile of the types of repositories, collections, and descriptive labor represented in the study. The comparison between these characteristics – especially the visibility of artificial arrangement and reparative description efforts – and the aforementioned codes for racial terminology were essential for understanding relationships between archival labor and their approaches to racial description. 
+
 
 | Table 2: Coding general characteristics of finding aids  |  |
 | :---- | :---- |
