@@ -16,6 +16,6 @@ I extend my most sincere thanks to the following Texas archival repositories whi
 
 The initial research phase of this project was generously funded by the 2024 NYU Digital Humanities Graduate Fellowship. Thank you to Jojo Karlin, Nicholas Wolf, and Alía Warsco for their valuable insights and support. 
 
-I also received generous funding from the NYU Department of History which enabled me to payfor high quality digital reproductions of the collection materials featured on this site. 
+I also received generous funding from the NYU Department of History which enabled me to pay for high quality digital reproductions of the collection materials featured on this site. 
 
 Finally, I am grateful for the encouragement and feedback provided by Ellen Noonan, Director of the Archives and Public History MA program at NYU, as well as my brilliant peers in the APH program. 
