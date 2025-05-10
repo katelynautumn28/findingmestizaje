@@ -5,7 +5,6 @@ author: 'Finding Mestizaje in the Archive: A Qualitative Analysis of Archival De
 publish_date: 2025-05-09
 permalink: /analysis/results/
 ---
-
 This page displays some of the key findings from my analysis of EAD finding aids gathered from TARO. 
 
 ------
@@ -52,10 +51,24 @@ By coding the collection date extents listed in the finding aid, I found that ov
 
 ## Key findings
 
+Out of 24 finding aids that included colonial terms for mestizaje in their description, *none of them included subject headings that would indicate the presence of mixed-race subjects (referring to both people and topics) within the collection.* Examples of LCHS headings that could have been utilized include Mestizaje, Mestizos, and Multiracial people, among others. Many of these finding aids only included 1-5 mentions of mestizo/as, which may not have warranted a subject heading at the collection level. Others, such as the Sons of the Republic of Texas Kathryn Stoner O’Connor Mexican Manuscript Collection, contain a more significant number of descriptions of racial identity yet do not include any cultural groups in the subject index (Figure 6). 
 
-### None of the finding aids analyzed in this study included subject headings related to mixed-race identity
+<img src="https://katelynautumn28.github.io/findingmestizaje/img/SRT-codes.png" class="center" alt="Mestizaje codes for SRT collection">
+<div style="text-align:center">
+<em></em>
+</div>
+<img src="https://katelynautumn28.github.io/findingmestizaje/img/SRT-subjects.png" class="center" alt="Subject headings from SRT collection">
+<div style="text-align:center">
+<em>Figure 5: (Above) Mestizaje and racial caste codes in the Guide to the Sons of the Republic of Texas Kathryn Stoner O’Connor Mexican Manuscript Collection, 1555-1987. (Below) Subject headings listed in the Sons of the Republic of Texas Kathryn Stoner O’Connor Mexican Manuscript Collection, 1555-1987.</em>
+</div>
 
-### Only seven finding aids mentioned the racial caste system or racism 
+Just over half (40) of the finding aids contained processing information that indicated the collection description had been created or revised since 2010. Five had last been written or revised from 2000 to 2009, 13 had been revised in 1990-1999, and 12 did not provide processing dates. Based on the increase in scholarship and activism surrounding reparative and culturally responsive description since the 2010s, I expected to find evidence of archivists applying such guidance to collections dealing directly with Black and Indigenous peoples recorded in the archive by their enslavers and colonial oppressors. However, surprisingly, only three finding aids in the corpus communicated the processing archivists’ awareness of racist materials within the collection (Figure 6) or suggested that the archivist(s) took descriptive interventions to humanize records subjects by describing people held in bondage as enslaved and including their names when available, rather than simply referring to them as slaves. While I acknowledge that this case study represents a small sample of finding aids, it is concerning to see that such a large percentage of the corpus lacked evidence of archivists’ awareness of or interventions in materials that contributed to racism, enslavement, and oppression. Such omissions, whether deliberate or not, contribute to the normalization of violence marginalization of Black and Indigenous people in the archive. The question of whether mestizaje terms are considered harmful and by whom remains an unresolved question that should be taken up by archivists and scholars of colonial Latin American in conversation with Black, Indigenous, and Latine archives users. 
 
-### Only three finding aids included statements that acknowledged offensive language in collection materials
+<img src="https://katelynautumn28.github.io/findingmestizaje/img/reparative.png" class="center" alt="Example of description acknowledging racist material">
+<div style="text-align:center">
+<em>Figure 6:  Scope and Contents note from the guide to the Texas Adjutant General's Department Departmental Correspondence at the Texas State Library and Archives, 1846-1943, https://txarchives.org/tslac/finding_aids/30004.xml</em>
+</div>
+
+
+Only three finding aids included statements that acknowledged offensive language in collection materials
 
