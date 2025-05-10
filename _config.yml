@@ -123,11 +123,8 @@ menu:
   - label: 'Search'
     link: '/search/'
   - label: 'About'
-    sub:
-      - label: 'About WaxBuilder'
-        link: '/about/waxbuilder/'
-      - label: 'About the Project'
-        link: '/about/project/'
+    link: '/about/waxbuilder/'
+
  
   
 
