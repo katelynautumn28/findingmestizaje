@@ -2,5 +2,5 @@ field,display_name,search
 _dateStart,Date,true
 agent,Creator,true
 location,Location,true
-latitude, latitude, true
-longitude, longitude, true
+latitude,Latitude,true
+longitude,Longitude,true
